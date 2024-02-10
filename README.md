@@ -1,4 +1,4 @@
-![image](https://github.com/Karthikeyan21001828/WDM_EXP1/assets/93427303/53a05e0d-b160-47e5-9a9b-21a01af9f95a)### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
+### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
 ### DATE: 
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing

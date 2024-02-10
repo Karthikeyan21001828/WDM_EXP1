@@ -54,7 +54,9 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+![image](https://github.com/Karthikeyan21001828/WDM_EXP1/assets/93427303/463456cd-5fbc-43d5-a3a9-3ac663806791)
 
+![image](https://github.com/Karthikeyan21001828/WDM_EXP1/assets/93427303/6c592061-919c-4993-97dd-9c8f7629a501)
 
 ### PREPROCESSING
 ### Procedure:
